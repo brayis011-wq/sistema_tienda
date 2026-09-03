@@ -1,0 +1,8 @@
+1-huevos=12.000
+2-leche=4.000
+3-pan=5.000
+4-arroz=2.500
+5-papa=3.000
+6-pasta=3.200
+7-lentejas=3.000
+8-frijol=2.700
